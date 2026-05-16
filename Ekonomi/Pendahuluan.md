@@ -82,7 +82,7 @@ Jenis:
 ## Pilihan-pilihan
 SDA itu terbatas dan langka, akibatnya muncul pilihan-pilihan yang terbatas juga. Untuk menentukan pilihan yang meningkatkan kesejahteraan bisa dengan menjawab tiga pertanyaan:
 1. Apa?
-2. Bagaimana? 
+2. Bagaimana?
 3. Untuk Siapa?
 Jawaban sangat tergantu variable-variable lain, misal sistem perekonomian negara, dll.
 
@@ -102,4 +102,67 @@ Kalau ambil A maka D hilang kesempatan nya
 
 ## Pasar, Fungsi-Fungsi Pasar, dan Keseimbangan
 pasar bukan cuma tenpat pedagang dan pembeli bertemu untuk melakukan transaksi jual-beli barang dan/atau jasa. Tapi lebih luas, yaitu kontak antara penjual dan pembeli yang memungkinkan terjadinya transaksi jual-beli atau pertukaran sesuatu dengan harga tertentu.
-Di pasar, pembeli memiliki permintaan dan penjual memiliki penawaran, sehingga terciptalah harga keseimbangan. Harga keseimbangan bukan dari permintaan pembeli saja, atau penawaran penjual saja, tapi agregat dari masing-masing industri
+Di pasar, pembeli memiliki permintaan dan penjual memiliki penawaran, sehingga terciptalah harga keseimbangan. Harga keseimbangan bukan dari permintaan pembeli saja, atau penawaran penjual saja, tapi agregat dari masing-masing industri.
+
+## Studi Komparasi Statis dan Dinamis
+### Studi Statis
+Mempelajari dan membandingkan dua atau lebih posisi tanpa mempertimbangkan periode transisi dan proses yang menyangkut penyesuaian keseimbangan. Contoh: Harga bensin naik.
+- Sebelum naik: permintaan motor = tinggi.
+- Sesudah naik: permintaan motor = menurun.
+Komparasi statis hanya melihat: keseimbangan sebelum kenaikan harga vs keseimbangan setelah kenaikan harga.
+
+### Studi Dinamis
+Mempelajari alur waktu dan proses penyesuaian keseimbangan itu sendiri. 
+- Ketika awal naik: permintaan motor sedikit turun
+- Bulan berikutnya: banyak yang beralih ke transportasi umum
+- Bulan berikutnya lagi: permintaan motor semakin menurun.
+
+| Aspek       | Komparasi Statis                                     | Studi Dinamis                                          |
+| ----------- | ---------------------------------------------------- | ------------------------------------------------------ |
+| Fokus       | Perbandingan hasil akhir                             | Proses perubahan                                       |
+| Unsur waktu | Tidak diperhatikan                                   | Sangat diperhatikan                                    |
+| Analisis    | Keadaan awal & akhir                                 | Perjalanan perubahan                                   |
+| Tujuan      | Mengetahui dampak perubahan                          | Mengetahui proses perkembangan                         |
+| Penggunaan  | Digunakan untuk melihat dampak suatu faktor ekonomi. | Digunakan untuk peramalan dan analisis jangka panjang. |
+
+## Analisa Keseimbangan Parsial dan Keseimbangan Umum
+### Analisis Keseimbangan Parsial
+Analisis keseimbangan parsial adalah analisis yang mempelajari **keseimbangan pada satu pasar tertentu saja**, dengan menganggap pasar lain tidak berubah (_ceteris paribus_).
+Contoh: Pasar beras
+- jika harga beras naik,
+- maka jumlah permintaan beras turun,
+- sedangkan penawaran meningkat,
+- hingga tercapai harga keseimbangan baru.
+Dalam analisis ini, pasar lain seperti pasar pakaian atau elektronik tidak diperhatikan.
+
+### Analisis Keseimbangan Umum
+Analisis keseimbangan umum adalah analisis yang mempelajari **keseimbangan seluruh pasar dalam perekonomian secara bersamaan**.
+Contoh: Kenaikan Harga Minyak
+- memengaruhi biaya transportasi,
+- biaya produksi makanan,
+- harga barang lain,
+- pendapatan masyarakat,
+- hingga permintaan berbagai produk.
+
+
+| Kelebihan Analisis Statis                      | Kelebihan Analisis Umum                                      |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| Mudah dipahami.                                | Lebih realistis.                                             |
+| Praktis digunakan dalam kehidupan sehari-hari. | Menjelaskan keterkaitan ekonomi secara menyeluruh.           |
+| Cocok untuk analisis sederhana.                | Cocok untuk analisis ekonomi makro dan kebijakan pemerintah. |
+
+| Kekurangan Analisis Statis                        | Kekurangan Analisis Umum                  |
+| ------------------------------------------------- | ----------------------------------------- |
+| Tidak melihat pengaruh antar pasar.               | Sulit dianalisis.                         |
+| Kurang tepat untuk masalah ekonomi yang kompleks. | Membutuhkan data dan perhitungan kompleks |
+
+## Ekonomi Positif dan Ekonomi Normatif
+Cara menganalisis masalah ekonomi
+
+|                    | Ekonomi Positif                                                                                                                                                                | Ekonomi Normatif                                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pengertian         | Ekonomi positif adalah cabang ilmu ekonomi yang membahas **fakta, hubungan sebab-akibat, dan kenyataan yang terjadi dalam perekonomian** secara objektif.                      | Ekonomi normatif adalah cabang ilmu ekonomi yang membahas **apa yang seharusnya dilakukan** dalam kegiatan ekonomi.                                                 |
+| Pertanyaan dijawab | - _“Apa yang terjadi?”_<br>- _“Mengapa hal itu terjadi?”_                                                                                                                      | - _“Apa yang sebaiknya dilakukan?”_<br>- _“Kebijakan apa yang paling baik?”_                                                                                        |
+| Dasar              | - data,<br>- fakta,<br>- dan teori ekonomi.<br>- objektif                                                                                                                      | - pendapat,<br>- nilai,<br>- dan pertimbangan moral atau sosial.<br>- subjektif                                                                                     |
+|                    | Dapat diuji kebenarannya                                                                                                                                                       | Tidak selalu dapat dibuktikan dengan data.                                                                                                                          |
+| Contoh             | - “Kenaikan harga menyebabkan permintaan menurun.”<br>- “Inflasi sebesar 5% menurunkan daya beli masyarakat.”<br>- “Pengangguran meningkat saat pertumbuhan ekonomi melambat.” | - “Pemerintah sebaiknya menurunkan pajak untuk membantu rakyat.”<br>- “Harga kebutuhan pokok harus dibuat lebih murah.”<br>- “Kesenjangan ekonomi perlu dikurangi.” |
