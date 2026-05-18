@@ -145,13 +145,13 @@ Contoh: Kenaikan Harga Minyak
 - hingga permintaan berbagai produk.
 
 
-| Kelebihan Analisis Statis                      | Kelebihan Analisis Umum                                      |
+| Kelebihan Analisis Parsial                     | Kelebihan Analisis Umum                                      |
 | ---------------------------------------------- | ------------------------------------------------------------ |
 | Mudah dipahami.                                | Lebih realistis.                                             |
 | Praktis digunakan dalam kehidupan sehari-hari. | Menjelaskan keterkaitan ekonomi secara menyeluruh.           |
 | Cocok untuk analisis sederhana.                | Cocok untuk analisis ekonomi makro dan kebijakan pemerintah. |
 
-| Kekurangan Analisis Statis                        | Kekurangan Analisis Umum                  |
+| Kekurangan Analisis Parsial                       | Kekurangan Analisis Umum                  |
 | ------------------------------------------------- | ----------------------------------------- |
 | Tidak melihat pengaruh antar pasar.               | Sulit dianalisis.                         |
 | Kurang tepat untuk masalah ekonomi yang kompleks. | Membutuhkan data dan perhitungan kompleks |

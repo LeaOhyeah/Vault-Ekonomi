@@ -8,36 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "778fda55833e7b29",
+            "id": "83d4bb7c3a2b1c3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ekonomi/Pendahuluan.md",
+                "file": "assets/sumber gambar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pendahuluan"
+              "title": "sumber gambar"
             }
-          }
-        ]
-      },
-      {
-        "id": "031fc5ee18610fd8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5231c25b2baf32af",
+            "id": "33216a146d4b7540",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ekonomi/Permintaan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permintaan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a25359563ff6198d",
@@ -199,10 +198,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "778fda55833e7b29",
+  "active": "33216a146d4b7540",
   "lastOpenFiles": [
+    "Pasted image 20260516235931.png",
+    "Ekonomi/Pendahuluan Kuis.md",
+    "Ekonomi/Permintaan.md",
+    "assets/sumber gambar.md",
+    "assets/kurva_permintaan.png",
+    "Pasted image 20260516163812.png",
+    "Pasted image 20260516163810.png",
     "assets/kurva_kemungkinan_produksi.png",
     "Ekonomi/Pendahuluan.md",
+    "README.md",
+    "Untitled",
     "assets/Pasted image 20260514004429.png",
     "assets",
     "Welcome.md",
